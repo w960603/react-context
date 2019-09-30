@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+}
+.nav-link{
+    display: flex;
+    height: 40px;
+    background-color: skyblue;
+    line-height: 40px;
+    text-align: center;
+}
+.nav-link a{
+    flex:1
+}
